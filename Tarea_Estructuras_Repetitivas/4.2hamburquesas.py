@@ -1,8 +1,9 @@
 def hambuerqueas():
    r1=0
    r2=0
-   print("HOLA BIENVENIDO")
-   print("Que Hamburguesas deseas:\n")
+   texto=' HOLA BIENVENIDO '
+   print(format(texto,'=^100'))
+   print("Que Hamburguesas deseas tenemos:")
    print("Sencilla = S")
    print("doble = D")
    print("Triple = T")
