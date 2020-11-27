@@ -1,2 +1,1 @@
-# Mis_proyectos
-Proyectos realizados por mi
+Aprediendo Python y Java
